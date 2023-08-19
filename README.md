@@ -7,4 +7,4 @@ An application that can track employee data; With the ability to...
     --> add a department
     --> add a role
     --> add an employee
-    --> update an employee role
+    --> update an employee role.
